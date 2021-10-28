@@ -79,6 +79,7 @@ INSTALLED_APPS = [
     'sorl.thumbnail',   # Default thumbnail backend, can be replaced
     'django_tables2',
     
+    'import_export',
     
     'crispy_forms',
     # local apps
